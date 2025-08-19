@@ -6,7 +6,7 @@
   border-left: 8px solid #fff;
 }
 .single:hover {
-  border-left: 8px solid #4979ff;
+  border-left: 8px solid #333159;
 }
 
 /* Card Container */
@@ -20,7 +20,7 @@
 .backLink {
   display: inline-block;
   margin-bottom: 1rem;
-  color: #0070f3;
+  color: #333159;
   text-decoration: none;
   font-weight: bold;
 }
@@ -47,7 +47,7 @@
   color: #333;
   font-size: 2rem;
   margin-bottom: 1.5rem;
-  border-bottom: 2px solid #0070f3;
+  border-bottom: 2px solid #333159;
   padding-bottom: 0.5rem;
 }
 
