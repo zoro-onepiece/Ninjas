@@ -26,7 +26,8 @@ export default function Home() {
 
         <div className={styles.ctaContainer}>
           <Link href="/ninjas" className={styles.ctaButton}>
-            Explore Ninjas ➤
+            Explore Ninjas <span>&#8669;</span>
+
           </Link>
         </div>
       </div>
