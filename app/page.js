@@ -11,12 +11,12 @@ export default function Home() {
         
         <p className={styles.heroDescription}>
           Where ancient tradition meets modern technology. Ninja Core is your gateway to 
-          discovering the world's most elite shinobi warriors. 
+          discovering the world&apos;s most elite shinobi warriors. 
         </p>
 
         <p className={styles.heroDescription}>
           Whether you are  seeking to hire a skilled operative or simply want to learn about 
-          the art of stealth and combat, Ninja Core provides world's most famous ninja to meet your needs.
+          the art of stealth and combat, Ninja Core provides world&apos;s most famous ninja to meet your needs.
         </p>
 
         <p className={styles.heroDescription}>
