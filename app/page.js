@@ -15,7 +15,7 @@ export default function Home() {
         </p>
 
         <p className={styles.heroDescription}>
-          Whether you're seeking to hire a skilled operative or simply want to learn about 
+          Whether you are  seeking to hire a skilled operative or simply want to learn about 
           the art of stealth and combat, Ninja Core provides world's most famous ninja to meet your needs.
         </p>
 
